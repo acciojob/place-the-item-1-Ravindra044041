@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-.container{
+.holder{
  display: flex;
  flex-direction: row;
 	flex-wrap: wrap;
 	
 }
-.box1{
+.item-1{
 	width: 100px;
 	height: 100px;
 	background-color: red;
@@ -14,7 +14,7 @@
     font-size: 30px;
 	order: 8;
 }
-.box2{
+.item-2{
 	width: 100px;
 	height: 100px;
 	background-color: blue;
@@ -22,35 +22,35 @@
     font-size: 30px;	
 	order: 9;
 }
-.box3{
+.item-3{
 	width: 100px;
 	height: 100px;
 	background-color: green;
 	margin: 5px;
     font-size: 30px;	
 }
-.box4{
+.item-4{
 	width: 100px;
 	height: 100px;
 	background-color: green;
 	margin: 5px;
     font-size: 30px;	
 }
-.box5{
+.item-5{
 	width: 100px;
 	height: 100px;
 	background-color: green;
 	margin: 5px;
     font-size: 30px;	
 }
-.box6{
+.item-6{
 	width: 100px;
 	height: 100px;
 	background-color: green;
 	margin: 5px;
     font-size: 30px;	
 }
-.box7{
+.item-7{
 	width: 100px;
 	height: 100px;
 	background-color: green;
