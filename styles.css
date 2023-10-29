@@ -1,2 +1,60 @@
 
 /* Your CSS Code here. */
+.container{
+ display: flex;
+ flex-direction: row;
+	flex-wrap: wrap;
+	
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 5px;
+    font-size: 30px;
+	order: 8;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	margin: 5px;
+    font-size: 30px;	
+	order: 9;
+}
+.box3{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin: 5px;
+    font-size: 30px;	
+}
+.box4{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin: 5px;
+    font-size: 30px;	
+}
+.box5{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin: 5px;
+    font-size: 30px;	
+}
+.box6{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin: 5px;
+    font-size: 30px;	
+}
+.box7{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	margin: 5px;
+    font-size: 30px;	
+	order: 7;
+}
